@@ -1,1 +1,0 @@
-/home/untrue/rust-stuff/adventofcode2022/day1/task1/target/debug/task1: /home/untrue/rust-stuff/adventofcode2022/day1/task1/src/main.rs /home/untrue/rust-stuff/adventofcode2022/day1/task1/src/readfile.rs
